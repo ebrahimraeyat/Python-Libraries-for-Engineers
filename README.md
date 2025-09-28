@@ -134,6 +134,11 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [PyNiteCoupler](link_to_documentation_or_repo) | Integrates PyNite with other tools | Structural |
 | [Compyl](link_to_documentation_or_repo) | Structural code checking | Structural |
 | [mento](https://github.com/mihdicaballero/mento) | Structural elements concrete check and design with ACI and Eurocode | Structural |
+| [steel-as](https://github.com/Folded-Structures-Lab/steel-as) | A Python package to support research and design of Australian steel structures | Structural |
+| [etabs_api](https://github.com/ebrahimraeyat/etabs_api) | API for [CSI ETABS](https://www.csiamerica.com/products/etabs) 2018 and Higher & [Sap2000](https://www.csiamerica.com/products/sap2000) | Structural |
+| [ASCE7-Earthquake](https://github.com/ebrahimraeyat/ASCE7-Earthquake) | Calculate Earthquake factor for Iraq country that is based on ASCE 7-16 Standard | Structural |
+| [OSAFE](https://github.com/ebrahimraeyat/OSAFE) | Draw Foundation Automatically from [CSI ETABS](https://www.csiamerica.com/products/etabs) for using in [CSI SAFE](https://www.csiamerica.com/products/safe) | Structural |
+| [SteelColumn](https://github.com/ebrahimraeyat/SteelColumn) | Drawing Steel Columns in [FreeCAD](https://www.freecad.org/) | Structural |
 | [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) | HTML/XML parsing | Web Dev |
 | [Django](https://djangoproject.com) | Full-featured web framework | Web Dev |
 | [FastAPI](https://fastapi.tiangolo.com) | Fast web APIs with type hints | Web Dev |
